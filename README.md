@@ -6,5 +6,16 @@ code to create a keylogger in your computer.
 </p>
 
 ## Demo:
-(Disclaimer: For educational purposes only.) \
-1. hello
+(Disclaimer: For educational purposes only.)
+
+Method 1 (needs Python 3)
+
+1. Download the code as a zip file
+2. Extract the files
+3. Run the 'keylogger.py' file to start
+
+Method 2
+
+1. Download the code as a zip file
+2. Extract the files
+3. Run the 'keylogger.exe' to start
