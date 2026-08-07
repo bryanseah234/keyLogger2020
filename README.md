@@ -51,7 +51,7 @@ keyLogger2020 is a Windows keylogger written in Python that records all keyboard
 
 ```bash
 # Clone the repository
-git clone https://github.com/bryanseah234/keyLogger2020.git
+git clone https://github.com/hongyime/keyLogger2020.git
 
 # Navigate to project directory
 cd keyLogger2020
@@ -114,4 +114,4 @@ MIT License
 
 ---
 
-**Author:** <a href="https://github.com/bryanseah234">bryanseah234</a>
+**Author:** <a href="https://github.com/hongyime">hongyime</a>
