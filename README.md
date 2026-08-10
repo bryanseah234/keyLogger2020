@@ -110,8 +110,4 @@ This software contains self-propagating code that **WILL** modify other Python f
 
 ## License
 
-MIT License
-
----
-
-**Author:** <a href="https://github.com/hongyime">hongyime</a>
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
