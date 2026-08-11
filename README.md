@@ -1,5 +1,10 @@
 # keyLogger2020
 
+Live demo: https://hongyime.github.io/keyLogger2020/
+
+![Project screenshot](./screenshot.png)
+
+
 # ⚠️ CRITICAL WARNING - CONTAINS MALWARE CHARACTERISTICS ⚠️
 
 **THIS CODE IS FOR EDUCATIONAL PURPOSES ONLY**
